@@ -1,10 +1,10 @@
 const employee1 = new Employee('1', 'minh nhat', 'minh@nhat.com', 'aaa', '02/11/2018', 'Boss');
 const employee2 = new Employee('2', 'minh nguyet', 'minh@nguyet', 'ccc', '18/11/2018', 'Employee');
-const employee3 = new Employee('3', 'minh khoa', 'minh@nguyet', 'ccc', '18/11/2018', 'Employee');
-const employee4 = new Employee('4', 'minh an', 'minh@nguyet', 'ccc', '18/11/2018', 'Employee');
-const employee5 = new Employee('5', 'minh tam', 'minh@nguyet', 'ccc', '18/11/2018', 'Employee');
-const employee6 = new Employee('6', 'minh phuc', 'minh@nguyet', 'ccc', '18/11/2018', 'Employee');
-const employee7 = new Employee('7', 'minh linh', 'minh@nguyet', 'ccc', '18/11/2018', 'Employee');
+const employee3 = new Employee('3', 'minh khoa', 'minh@nguyet', 'ccc', '18/10/2018', 'Employee');
+const employee4 = new Employee('4', 'minh an', 'minh@nguyet', 'ccc', '18/09/2018', 'Employee');
+const employee5 = new Employee('5', 'minh tam', 'minh@nguyet', 'ccc', '16/12/2018', 'Employee');
+const employee6 = new Employee('6', 'minh phuc', 'minh@nguyet', 'ccc', '09/03/2018', 'Employee');
+const employee7 = new Employee('7', 'minh linh', 'minh@nguyet', 'ccc', '16/07/2018', 'Employee');
 const company = new Company();
 company.addEmployee(employee1);
 company.addEmployee(employee2);
